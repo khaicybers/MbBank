@@ -1,7 +1,7 @@
 /*
  * MIT License
  *
- * Copyright (c) 2024 CookieGMVN and contributors
+ * Copyright (c) 2024 khaicybers and contributors
  *
  * Permission is hereby granted, free of charge, to any person obtaining a copy
  * of this software and associated documentation files (the "Software"), to deal
@@ -47,7 +47,7 @@ module.exports = {
       "error",
       {
         files: ["./header.txt"],
-        templates: { author: [".*", "CookieGMVN and contributors"] },
+        templates: { author: [".*", "khaicybers and contributors"] },
       },
     ],
     "@typescript-eslint/no-var-requires": "off",

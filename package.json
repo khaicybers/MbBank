@@ -13,17 +13,17 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/CookieGMVN/MBBank.git"
+    "url": "git+https://github.com/khaicybers/MBBank.git"
   },
   "keywords": [
     "mbbank",
     "mb",
     "bank"
   ],
-  "author": "CookieGMVN",
+  "author": "khaicybers",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/CookieGMVN/MBBank/issues"
+    "url": "https://github.com/khaicybers/MBBank/issues"
   },
   "funding": "https://nhantien.momo.vn/0347959824",
   "homepage": "https://mb-bank.vercel.app",
