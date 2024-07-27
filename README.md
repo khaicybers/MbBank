@@ -48,7 +48,7 @@ Thư viện này một phần được dựa trên dự án [MBBank](https://pyp
 
 ## Donations
 
-If you think this is helpful for you, you can give me a cup of coffee via bank account: 0974163549 - MB - TRAN DINH TUYEN or MoMo wallet: 0347959824
+If you think this is helpful for you, you can give me a cup of coffee via bank account: 0347959824 - MB - PHAN DUY KHAI or MoMo wallet: 0347959824
 
 ## License
 

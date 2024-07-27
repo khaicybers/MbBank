@@ -46,7 +46,7 @@ Thư viện này một phần được dựa trên dự án [MBBank](https://pyp
 
 ## Ủng hộ
 
-Nếu thư viện này hữu ích với bạn, bạn có thể ủng hộ cho mình một cốc cà phê bằng STK 0974163549 - MB - TRAN DINH TUYEN hoặc MoMo: 0347959824
+Nếu thư viện này hữu ích với bạn, bạn có thể ủng hộ cho mình một cốc cà phê bằng STK 0347959824 - MB - PHAN DUY KHAI hoặc MoMo: 0347959824
 
 ## Giấy phép
 
